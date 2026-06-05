@@ -17,3 +17,11 @@ Bienvenu sur mon profil GitHub !<br>
 ## Contacts :
 
 [scratch.20.24.0@gmail.com](mailto:scratch.20.24.0@gmail.com) ou [@Scratch_2_0_2_4](https://scratch.mit.edu/users/Scratch_2_0_2_4/#comments)
+
+<br>
+<br>
+<br>
+
+
+
+###### Il m'arrive de me faire aider par l'IA mais **QUE** pour ce que je sais pas faire. J'apprends le code avec [Mimo](https://getmimo.com/invite/fapv6u).
