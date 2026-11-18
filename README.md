@@ -5,15 +5,14 @@ Bienvenu sur mon profil GitHub !<br>
 >Donc si vous n'aves pas d'inspi pour un README, contactez-moi ^^
 
 ## Je code en :
+![Langages de programmations](https://skillicons.dev/icons?i=python,html,css&theme=light)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
+### (et un peu en) :
+![Langages de programmations](https://skillicons.dev/icons?i=js,sqlite&theme=light)
 
+## Choses que j'aime :
+
+![Logiciels](https://skillicons.dev/icons?i=vscodium,github,gitlab,cloudflare,flask,docker,figma,ai,obsidian,gmail,arch,linux,raspberrypi&theme=light)
 
 ## Liens :
 [Mon Forum (LGDC Forum)](https://lgdc.flarum.cloud)
